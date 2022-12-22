@@ -8,7 +8,7 @@ public class Main {
 		Student obj =new Student("767",subject,"aryaan",12,"9988776655");
 		 
 		System.out.println(obj.toString());
-		System.out.println();
+		System.out.println("the institute is:"+Student.instituteName);
 		
 		
 		

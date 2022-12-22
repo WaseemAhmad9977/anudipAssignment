@@ -7,7 +7,7 @@ public class Main {
 		
 		Rectangle rr = new Rectangle();
 		System.out.println("Area of square : "+ ss.area());
-		System.out.println("Area of square : "+ rr.area());
+		System.out.println("Area of Rectangle : "+ rr.area());
 		
 		
 
